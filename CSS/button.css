@@ -1,0 +1,23 @@
+.myButton {
+  box-shadow: 14px -9px 11px -1px wheat;
+  background: linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+  background-color: #ededed;
+  border-radius: 30px;
+  display: inline-block;
+  cursor: pointer;
+  color: black;
+  font-family: Verdana;
+  font-size: 21px;
+  font-weight: bold;
+  padding: 11px 76px;
+  text-decoration: none;
+  text-shadow: 0px 0px 0px #e1e2ed;
+}
+.myButton:hover {
+  background: linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+  background-color: #bab1ba;
+}
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
