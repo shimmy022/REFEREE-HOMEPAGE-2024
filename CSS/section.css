@@ -55,6 +55,10 @@
   letter-spacing: 3px;
 }
 
+.section__paragraph--contact {
+  word-wrap: break-word;
+}
+
 .section__image {
   width: 100%;
   height: 100%;
